@@ -10,7 +10,7 @@ X Education has appointed you to help them select the most promising leads,i.e. 
 
 # Data:
 
-YOu have been provided with leads dataset from the past with around 9000 data points. This dataset consists of various attributes such as Lead Source, Total Time Spent on website, Total Visits, Last Activity, etc. Which may or may  not be useful in ultimately deciding wheater a lead will be converted or not. The target variable in this case, is the column 'Converted' which tells wheater a past lead was converted or not wherein 1 means it was converted and 0 means it wasn't converted. You can learn more aabout the dataset from the data dictionary provided in the zip folder at the end of the page.
+You have been provided with leads dataset from the past with around 9000 data points. This dataset consists of various attributes such as Lead Source, Total Time Spent on website, Total Visits, Last Activity, etc. Which may or may not be useful in ultimately deciding wheater a lead will be converted or not. The target variable in this case, is the column 'Converted' which tells wheater a past lead was converted or not wherein 1 means it was converted and 0 means it wasn't converted. You can learn more aabout the dataset from the data dictionary provided in the zip folder at the end of the page.
 Another thing that you also need to check out for are the levels present in the categorical variables. Many of the categorical variables have a level called 'Select' which needs to be handled because it is as good as a null value (think why?)
 
 # Goals of the cas study.
@@ -19,7 +19,7 @@ There are quite a few goals for this case study.
 
 * Build a logistic regression model to assign a lead score between 0 and 100 to each of the leads which can be used by the company to target potential leads. A higher score would mean that the lead is hot, i.e. is most likely to convert whereas a lower score would mean that the lead is cold and will mostly not get converted.
 
-* There are some problems presented by the company whcih your model should be able to adjust if the company's requirment changes in the future so you will need to handle these as well. These problems are provided in a separate doc file. Please fill it based on the logistic regression model you got in the first step. Also, make sure you include this in your final PPT where you'll make recommendations.
+* There are some problems presented by the company which your model should be able to adjust if the company's requirment changes in the future so you will need to handle these as well. These problems are provided in a separate document file. Please fill it based on the logistic regression model you got in the first step. Also, make sure you include this in your final PPT where you'll make recommendations.
 
 # Results Expected.
 
